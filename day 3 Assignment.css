@@ -1,0 +1,24 @@
+img{
+    height: 200px;
+    width: 300px;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th{
+    background-color: #0a830a;
+    color: white;
+}
+table{
+height: 150px;
+width: 100%;
+}
+input,::placeholder{
+    background-color: #0a830a;
+    color: white;
+    
+}
+*{
+    background-color: beige;
+}
